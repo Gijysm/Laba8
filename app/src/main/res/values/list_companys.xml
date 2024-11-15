@@ -1,0 +1,48 @@
+<resources>
+    <string-array name="companies">
+    <string-array name="companies_adobe">
+        <item>Adobe Photoshop</item>
+        <item>Adobe Illustrator</item>
+        <item>Adobe InDesign</item>
+    </string-array>
+
+    <string-array name="companies_corel">
+        <item>CorelDRAW</item>
+        <item>Corel Painter</item>
+    </string-array>
+
+    <string-array name="companies_autodesk">
+        <item>Autodesk SketchBook</item>
+    </string-array>
+
+    <string-array name="companies_affinity">
+        <item>Affinity Photo</item>
+        <item>Affinity Designer</item>
+        <item>Affinity Publisher</item>
+    </string-array>
+
+    <string-array name="companies_clip_studio">
+        <item>Clip Studio Paint</item>
+    </string-array>
+
+    <string-array name="companies_krita">
+        <item>Krita</item>
+    </string-array>
+
+    <string-array name="companies_gimp">
+        <item>GIMP</item>
+    </string-array>
+
+    <string-array name="companies_inkscape">
+        <item>Inkscape</item>
+    </string-array>
+
+    <string-array name="companies_paint_tool_sai">
+        <item>Paint Tool SAI</item>
+    </string-array>
+
+    <string-array name="companies_medibang">
+        <item>MediBang Paint</item>
+    </string-array>
+    </string-array>
+</resources>
